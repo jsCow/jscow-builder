@@ -2,7 +2,7 @@
   "name": "jscow-builder",
   "description": "jsCow - Javascript Component Framework - Builder",
   "version": "1.0.0",
-  "license": "GNU",
+  "license": "GPL-3.0+",
   "readme": "README.md",
   "author": "Mario Linz <gelight@gmx.de>",
   "contributors": [
